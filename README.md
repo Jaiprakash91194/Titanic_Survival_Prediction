@@ -15,7 +15,6 @@ The Model will analyse the parameters and predict whether the passenger survived
 ## Methods Used
 - Data Collection
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Modelling
 ## Technologies used
