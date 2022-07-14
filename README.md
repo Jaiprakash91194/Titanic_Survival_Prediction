@@ -3,12 +3,6 @@
 
 The Application to predict whether the passenger survived in Titanic Sinking.
 ![Random GIF](https://media.giphy.com/media/OJw4CDbtu0jde/giphy.gif)
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
 
 ## Description
 
@@ -21,7 +15,6 @@ The Model will analyse the parameters and predict whether the passenger survived
 ## Methods Used
 - Data Collection
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Modelling
 ## Technologies used
