@@ -29,3 +29,7 @@ The Model will analyse the parameters and predict whether the passenger survived
 - AdaBoostClassifier
 - KNeighborsClassifier
 - GaussianNB
+
+## Output
+ - [Flask_API](http://127.0.0.1:5000/apidocs/#/default/get_)
+
