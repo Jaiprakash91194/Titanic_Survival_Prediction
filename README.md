@@ -33,3 +33,5 @@ The Model will analyse the parameters and predict whether the passenger survived
 ## Output
  - [Flask_API](http://127.0.0.1:5000/apidocs/#/default/get_)
 
+## Conclusion
+From the above observation, we select the best model for the datasets based on performance and use FLASK API to showcase the application to Front End.
