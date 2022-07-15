@@ -31,7 +31,7 @@ The Model will analyse the parameters and predict whether the passenger survived
 - GaussianNB
 
 ## Output
- - [Flask_API](http://127.0.0.1:5000/apidocs/#/default/get_)
+ - Used Flask module in python to host my application to the users. PFB the snip of Flassgar API.
  - ![FLASK API Screenshot](https://github.com/Jaiprakash91194/Titanic_Survival_Prediction/blob/main/FlaskAPI_Output.jpg "FLASK API Output")
 
 ## Conclusion
