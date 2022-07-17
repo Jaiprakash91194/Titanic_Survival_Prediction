@@ -32,7 +32,7 @@ The Model will analyse the parameters and predict whether the passenger survived
 
 ## Output
  - Used Flask module in python to host my application to the users. PFB the snip of Flassgar API.
- - ![FLASK API Screenshot](https://github.com/Jaiprakash91194/Titanic_Survival_Prediction/blob/main/FlaskAPI_Output.jpg "FLASK API Output")
+ - ![FLASK API Screenshot](https://github.com/Jaiprakash91194/Customer_Conversion_Prediction/blob/main/Customer_Prediction_snip.jpg "FLASK API Output")
 
 ## Conclusion
 From the above observation, we select the best model for the datasets based on performance and use FLASK API to showcase the application to Front End.
